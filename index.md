@@ -1,7 +1,7 @@
-# KTCS - The social media built on Discord, trying to replicate the Fediverse
+# KTCS - The social media built on Discord.
 We know, this idea may be stupid but we were just bored. 
 (we're still trying to find a way out to bridge instances. for now, you'll have to join servers to view content from others)
-This is basically a platform where you can make posts, do streams etc. and all that.
+This is basically a platform where you can make posts, do streams etc. and all that. Basically unfederated and isolated 🤷
 # Instances
 ## KTCSocial
 ### The default instance
